@@ -1,7 +1,8 @@
 # Website Analysis of Toronto.ca
+This is personal portfolio project
 
-## Purpose
-This is a personal portfolio project that analyzes traffic and behavior of visitors of toronto.ca
+## Purpose/Objective
+Analyze website traffic and behavior improve users' experience.
 
 ## Datasets License
 
