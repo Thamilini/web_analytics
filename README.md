@@ -2,7 +2,7 @@
 This is personal portfolio project
 
 ## Purpose/Objective
-Recommend strategies to convert casual riders into annual members through an analysis their differences.
+Analyze website traffic and behavior improve users' experience.
 
 ## Datasets License
 
