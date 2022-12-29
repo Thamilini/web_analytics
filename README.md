@@ -18,3 +18,5 @@ The datasets were cleaned, processed and transformed using R. The following libr
 * ggplot2
 
 A dashboard and its visualizations were created using Tableau. 
+
+![Process](Process.jpg)
