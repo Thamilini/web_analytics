@@ -19,4 +19,5 @@ The datasets were cleaned, processed and transformed using R. The following libr
 
 A dashboard and its visualizations were created using Tableau. 
 
+Below is an image that outlines the phases used in this process. Image Source: [Google Data Analytics Professional Certificate Program](https://www.coursera.org/professional-certificates/google-data-analytics)
 ![Process](Process.jpg)
