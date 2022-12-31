@@ -1,5 +1,5 @@
 # Website Analysis of Toronto.ca
-This is personal portfolio project
+This is personal portfolio project by Thamilini P.
 
 ## Purpose/Objective
 Analyze website traffic and behavior improve users' experience.
